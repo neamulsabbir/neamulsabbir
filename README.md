@@ -1,4 +1,4 @@
-![I am MERN STACK DEVELOPER](https://i.ibb.co/Nxk3YwJ/developer-banner.jpg)
+![I am MERN STACK DEVELOPER](https://i.ibb.co/CnNTV2Z/developer-banner.jpg)
 ### Hi there 👋, my name is Sabbir
 #### I am MERN STACK DEVELOPER
 
