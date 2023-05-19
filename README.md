@@ -6,7 +6,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 Skills: REACT / JS / REDUX / HTML / CSS / MONGO DB / EXPRESS JS 
 
-<a href="www.google.com">M</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neamulsabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir-hossain-430420198//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/neamul.sabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/sabbir520)  
 
