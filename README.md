@@ -1,10 +1,11 @@
 ![I am MERN STACK DEVELOPER](https://i.ibb.co/CnNTV2Z/developer-banner.jpg)
-### Hi there 👋, my name is Sabbir
+## Hi there 👋, my name is Sabbir 
 #### I am MERN STACK DEVELOPER
 
 I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
-Skills: REACT / JS / TYPESCRIPT / REDUX / HTML / CSS / MONGO DB / EXPRESS JS 
+#### Skills: ⮯
+        ⮞ REACT ⮞ JS ⮞ TYPESCRIPT ⮞ REDUX ⮞ HTML ⮞ CSS ⮞ MONGO DB ⮞ EXPRESS JS 
 
 
 
