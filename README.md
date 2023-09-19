@@ -5,6 +5,7 @@
 I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 #### Skills: ⮯
+[<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>]
         ⮞ REACT ⮞ JS ⮞ TYPESCRIPT ⮞ REDUX ⮞ HTML ⮞ CSS ⮞ MONGO DB ⮞ EXPRESS JS 
 
 
