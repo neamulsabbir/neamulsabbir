@@ -5,7 +5,7 @@
 I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 #### Skills: ⮯
-<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>    <img src='https://i.ibb.co/MNW75yy/esc.png' alt='facebook' height='40' hspace="10"> <img src='https://i.ibb.co/qnHkmRD/type.png' alt='facebook' height='40'> <img src='https://i.ibb.co/z5gCV1Y/react.png' alt='facebook' height='40'> <img src='https://i.ibb.co/520Fy39/redux.png' alt='facebook' height='40'> <img src='https://i.ibb.co/j43LdKL/tailwind.png' alt='facebook' height='40'> <img src='https://i.ibb.co/1ZQxH5j/boots.png' alt='facebook' height='40'> <img src='https://i.ibb.co/pwbCq1g/node.png' alt='facebook' height='40'> <img src='https://i.ibb.co/DV2BxCw/express.png' alt='facebook' height='40'> <img src='https://i.ibb.co/pxq9cFB/mongo.png' alt='facebook' height='40'>
+<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>    <img src='https://i.ibb.co/MNW75yy/esc.png' alt='facebook' height='40' hspace="10"> <img src='https://i.ibb.co/qnHkmRD/type.png' alt='facebook' height='40'> <img src='https://i.ibb.co/z5gCV1Y/react.png' alt='facebook' height='40' hspace="10"> <img src='https://i.ibb.co/520Fy39/redux.png' alt='facebook' height='40'> <img src='https://i.ibb.co/j43LdKL/tailwind.png' alt='facebook' height='40' hspace="10"> <img src='https://i.ibb.co/1ZQxH5j/boots.png' alt='facebook' height='40'> <img src='https://i.ibb.co/pwbCq1g/node.png' alt='facebook' height='40'> <img src='https://i.ibb.co/DV2BxCw/express.png' alt='facebook' height='40'> <img src='https://i.ibb.co/pxq9cFB/mongo.png' alt='facebook' height='40'>
         
 
 
