@@ -5,9 +5,8 @@
 I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 #### Skills: ⮯
-[<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>]
-        ⮞ REACT ⮞ JS ⮞ TYPESCRIPT ⮞ REDUX ⮞ HTML ⮞ CSS ⮞ MONGO DB ⮞ EXPRESS JS 
-
+[<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>] [<img src='https://i.ibb.co/mD4wqgb/js.png' alt='facebook' height='40'>]
+        
 
 
 [<img src='https://i.ibb.co/BtbDHY1/facebook.png' alt='facebook' height='80'>](https://www.facebook.com/neamul.sabbir) [<img src='https://i.ibb.co/W3zL3P3/fiverr.png' alt='fiverr' height='80'>](https://www.fiverr.com/sabbir520)  [<img src='https://i.ibb.co/WPQ3DyF/linkedin.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/sabbir-hossain-430420198//)   
