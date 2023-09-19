@@ -19,4 +19,4 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=neamulsabbir)  
 ![](https://komarev.com/ghpvc/?username=neamulsabbir)
-![Profile views](https://gpvc.arturio.dev/neamulsabbir)  
+
