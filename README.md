@@ -9,7 +9,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
         
 
 #### Connect with me: ⮯
-[<img src='https://i.ibb.co/BtbDHY1/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/neamul.sabbir) [<img src='https://i.ibb.co/W3zL3P3/fiverr.png' alt='fiverr' height='40'>](https://www.fiverr.com/sabbir520)  [<img src='https://i.ibb.co/WPQ3DyF/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir-hossain-430420198//)   
+[<img src='https://i.ibb.co/BtbDHY1/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/neamul.sabbir) [<img src='https://i.ibb.co/W3zL3P3/fiverr.png' alt='fiverr' height='40'>](https://www.fiverr.com/sabbir520)  [<img src='https://i.ibb.co/WPQ3DyF/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/neamul-sabbir/)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neamulsabbir)](https://github.com/anuraghazra/github-readme-stats)
 
