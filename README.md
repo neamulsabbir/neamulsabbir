@@ -9,7 +9,7 @@ I have a passion for **learning** and **sharing knowledge** with others. I love 
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="https://i.ibb.co/mD4wqgb/js.png" alt="JavaScript" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30" hspace="5">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30" hspace="5">
   <img src="https://i.ibb.co/xj1KmCr/express-3.jpg" alt="Express.js" height="30" hspace="5">
   <img src="https://i.ibb.co/d2WM6T0/express-4.jpg" alt="MongoDB" height="30" hspace="5">
