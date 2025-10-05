@@ -11,10 +11,11 @@ I have a passion for **learning** and **sharing knowledge** with others. I love 
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30" hspace="5">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30" hspace="5">
-  <img src="https://i.ibb.co/xj1KmCr/express-3.jpg" alt="Express.js" height="30" hspace="5">
-  <img src="https://i.ibb.co/d2WM6T0/express-4.jpg" alt="MongoDB" height="30" hspace="5">
-  <img src="https://i.ibb.co/4FwqtZB/express-5.jpg" alt="Node.js" height="30" hspace="5">
-  <img src="https://i.ibb.co/1ZQxH5j/boots.png" alt="Bootstrap" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next js" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket io" height="30" hspace="5">
 </p>
 
 ---
