@@ -2,7 +2,6 @@
 
 # Hi there 👋, I'm Sabbir
 ### Frontned Developer | Problem Solver
-
 <img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=200 align=right>
 
 I have a passion for **learning** and **sharing knowledge** with others. I love to **solve real-world problems** and create **user-friendly, scalable applications**. I am **strategic, goal-oriented**, and always work with a clear **end goal** in mind.
