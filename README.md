@@ -16,6 +16,8 @@ I have a passion for **learning** and **sharing knowledge** with others. I love 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" height="30" hspace="5">
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" height="30" hspace="5">
   <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket io" height="30" hspace="5">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML 5" height="30" hspace="5">
+  https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white
 </p>
 
 ---
