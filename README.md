@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Sabbir
 ### Frontned Developer | Problem Solver
 
-<img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=200 align=right>
+<img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=150 align=right>
 
 I have a passion for **learning** and **sharing knowledge** with others. I love to **solve real-world problems** and create **user-friendly, scalable applications**. I am **strategic, goal-oriented**, and always work with a clear **end goal** in mind.
 
@@ -39,13 +39,10 @@ I have a passion for **learning** and **sharing knowledge** with others. I love 
 ## 🌐 Connect with Me
 <p>
   <a href="https://www.facebook.com/neamul.sabbir" target="_blank">
-    <img src="https://i.ibb.co/BtbDHY1/facebook.png" alt="Facebook" height="40">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white" alt="Facebook" height="30">
   </a>
-  <a href="https://www.fiverr.com/sabbir520" target="_blank">
-    <img src="https://i.ibb.co/W3zL3P3/fiverr.png" alt="Fiverr" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/neamul-sabbir/" target="_blank">
-    <img src="https://i.ibb.co/WPQ3DyF/linkedin.png" alt="LinkedIn" height="40">
+  <a href="https://www.linkedin.com/in/neamulsabbir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
 </p>
 
