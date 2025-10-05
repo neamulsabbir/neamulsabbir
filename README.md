@@ -1,7 +1,7 @@
 ![Developer Banner](https://i.ibb.co/2tT5v6v/modern-dev-banner.jpg)
 
 # Hi there 👋, I'm Sabbir
-### MERN Stack Developer | Problem Solver | Lifelong Learner
+### Frontned Developer | Problem Solver
 
 I have a passion for **learning** and **sharing knowledge** with others. I love to **solve real-world problems** and create **user-friendly, scalable applications**. I am **strategic, goal-oriented**, and always work with a clear **end goal** in mind.
 
