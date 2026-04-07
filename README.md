@@ -1,4 +1,3 @@
-![Developer Banner](https://i.ibb.co/2tT5v6v/modern-dev-banner.jpg)
 
 # Hi there 👋, I'm Sabbir
 ### Frontned Developer | Problem Solver
